@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasangi Anuththara Naulla</h1>
 <h3 align="center">B.Sc. in Engineering Hons.(UG) - Computer Engineering - University of Ruhuna, Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Ff75ac2f2-116a-11ee-aa38-a35154041321%2FUTSEH078Aw.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwiW3-Xz24uDAxXW6DgGHTGEAo0QMygkegUIARDdAQ..i&imgrefurl=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&docid=dvMN-VLDkQ65xM&w=640&h=640&q=animated%20coding%20gif%20%20&ved=2ahUKEwiW3-Xz24uDAxXW6DgGHTGEAo0QMygkegUIARDdAQ">
 
 - 📫 How to reach me **ndpanaulla@gmail.com**
 
