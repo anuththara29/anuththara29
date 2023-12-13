@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasangi Anuththara Naulla</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&usqp=CAU">
 
 - 📫 How to reach me **ndpanaulla@gmail.com**
 
